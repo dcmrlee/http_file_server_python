@@ -10,5 +10,7 @@ http_file_server_python
 First create a log file. eg: touch /var/log/pyftpdlib.log
 
 python3 start.py start
+
 python3 start.py status
+
 python3 start.py stop
